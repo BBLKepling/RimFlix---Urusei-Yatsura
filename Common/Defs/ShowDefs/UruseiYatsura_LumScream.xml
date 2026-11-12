@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>BBLK_UruseiYatsura_LumScream</defName>
+    <label>Urusei Yatsura Lum Scream</label>
+    <description>Urusei Yatsura Lum Scream</description>
+    <televisionDefs>
+      <li>TubeTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.064</secondsBetweenFrames>
+    <frames>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumScream/LumScream0</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumScream/LumScream1</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumScream/LumScream2</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumScream/LumScream3</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumScream/LumScream4</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumScream/LumScream5</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

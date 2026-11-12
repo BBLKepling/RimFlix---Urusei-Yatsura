@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>BBLK_UruseiYatsura_LumCook</defName>
+    <label>Urusei Yatsura Lum Cook</label>
+    <description>Urusei Yatsura Lum Cook</description>
+    <televisionDefs>
+      <li>TubeTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.064</secondsBetweenFrames>
+    <frames>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook0</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook1</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook2</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook3</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook4</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook5</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumCook/LumCook6</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

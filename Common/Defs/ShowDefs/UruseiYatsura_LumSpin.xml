@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>BBLK_UruseiYatsura_LumSpin</defName>
+    <label>Urusei Yatsura Lum Spin</label>
+    <description>Urusei Yatsura Lum Spin</description>
+    <televisionDefs>
+      <li>TubeTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>0.064</secondsBetweenFrames>
+    <frames>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin0</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin1</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin2</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin3</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin4</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin5</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin6</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin7</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin8</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin9</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin10</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/LumSpin/LumSpin11</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <RimFlix.ShowDef>
+    <defName>BBLK_UruseiYatsura_Screens</defName>
+    <label>Urusei Yatsura Screenshots</label>
+    <description>Urusei Yatsura Screenshots</description>
+    <televisionDefs>
+      <li>TubeTelevision</li>
+    </televisionDefs>
+    <secondsBetweenFrames>8.0</secondsBetweenFrames>
+    <frames>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/AtaruMom</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/AtaruPunch</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/catSmokes</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/electroShock</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/kon</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/LumBra</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/sailorFight</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/ThisIsFate</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/smokeBreak</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/foodPoison</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/assBite</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/ThisIsFate2</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/KotatsuNekoTaiyaki</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+      <li>
+        <texPath>Shows/UruseiYatsura/Screenshots/KotatsuTea</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </li>
+    </frames>
+  </RimFlix.ShowDef>
+
+</Defs>
